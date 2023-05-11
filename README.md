@@ -22,6 +22,9 @@ Jira Ticket Manager Clone for creating Ticket Tasks along with their priorities 
         11. After clicking X, click on tickets you want to remove.
         12. After deletion click on X to disable delete function.
         13. All the data is saved at Local Browser Storage.
+![Screenshot (136)](https://github.com/PRINCEMISHRAJI/JIRA_Clone/assets/50262987/3e62bec6-5f4e-4f0c-82f9-eb5960e8bc4e)
+
+![Screenshot (137)](https://github.com/PRINCEMISHRAJI/JIRA_Clone/assets/50262987/f2df77b7-14fc-4a1e-a392-fca4e2c276eb)![Screenshot (139)](https://github.com/PRINCEMISHRAJI/JIRA_Clone/assets/50262987/5ce6bf9c-4c33-4102-84ee-4e7ef83a3ba4)
 
 
 
